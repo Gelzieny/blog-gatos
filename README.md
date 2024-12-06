@@ -1,4 +1,4 @@
-<h1 align="center"> Sobre o desafio - Blog de Gato/h1>
+<h1 align="center"> Sobre o desafio - Blog de Gato</h1>
 
 
 <p align="justify">
