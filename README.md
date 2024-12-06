@@ -30,7 +30,7 @@ ou seja, ajustando o conteúdo para aparelhos mobile e desktop.
 
 
 <p align="center">
-  <img alt="" title="#" src="https://github.com/Gelzieny/blog-gatos/blob/main/.github/preview-desc.png?raw=true" width="400px">
+  <img alt="" title="#" src="https://github.com/Gelzieny/blog-gatos/blob/main/.github/preview-desc.png?raw=true" ">
   <img alt="" title="#" src="https://github.com/Gelzieny/blog-gatos/blob/main/.github/image.png?raw=true" width="300px">
 </p>
 
