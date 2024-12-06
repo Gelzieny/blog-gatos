@@ -30,5 +30,14 @@ ou seja, ajustando o conteúdo para aparelhos mobile e desktop.
 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-<img alt="" title="#" src="">
+  <img alt="" title="#" src="https://github.com/Gelzieny/blog-gatos/blob/main/.github/preview-desc.png?raw=true" width="400px">
+  <img alt="" title="#" src="https://github.com/Gelzieny/blog-gatos/blob/main/.github/preview-mobile.png?raw=true" width="300px">
 </p>
+
+# 🧑🏻‍💻 Autor
+
+Feito com ❤️ por Gelzieny R. Martins 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gelzieny-r-martins-180551106/)
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
