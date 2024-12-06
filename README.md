@@ -29,10 +29,11 @@ ou seja, ajustando o conteúdo para aparelhos mobile e desktop.
 - O layout do desafio está disponível no [Figma](<https://www.figma.com/design/BYooLI7hn0cV6xMUhvidZG/Blog-de-Gatos-%E2%80%A2-Desafio-Explorer-(Community)?node-id=0-1&node-type=canvas&t=Bu1W8xrhR0mUx9NF-0>)
 
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+<p align="center">
   <img alt="" title="#" src="https://github.com/Gelzieny/blog-gatos/blob/main/.github/preview-desc.png?raw=true" width="400px">
   <img alt="" title="#" src="https://github.com/Gelzieny/blog-gatos/blob/main/.github/preview-mobile.png?raw=true" width="300px">
 </p>
+
 
 # 🧑🏻‍💻 Autor
 
